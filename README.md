@@ -1,5 +1,5 @@
 # gothfiberv2
-Wrapper for goth library to use with [Fiber V2 Framework](https://github.com/gofiber/fiber)
+Wrapper for [goth](https://github.com/markbates/goth) library to use with [Fiber V2 Framework](https://github.com/gofiber/fiber)
 
 ## Installation
 
