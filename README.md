@@ -79,3 +79,11 @@ make
 - [golangci-lint](https://github.com/golangci/golangci-lint)
 - [errcheck](https://github.com/kisielk/errcheck)
 - [golint](https://github.com/golang/lint)
+
+## We are Fast and Comfy
+
+[fastandcomfy.io](https://fastandcomfy.io)
+
+We’re hosting apps and services that are ready for you to use in an instant. No need for installation, configuration, or worrying. Just what you need in a matter of seconds. It’s fast and comfy.
+
+__We’re changing the world of hosting.__
